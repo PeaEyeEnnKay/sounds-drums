@@ -15,7 +15,7 @@
     "drums/cr/crash_11.mp3",
     "drums/cr/crash_04.mp3",
     "drums/cr/crash_05.mp3",
-    "drums/cr/crash_06.mp3",
+    "drums/cr/crash_06.mp3"
   ],
   "drums_cp": [
     "drums/cp/clap_06.mp3",
@@ -42,7 +42,7 @@
     "drums/cp/clap_18.mp3",
     "drums/cp/clap_25.mp3",
     "drums/cp/clap_04.mp3",
-    "drums/cp/clap_09.mp3",
+    "drums/cp/clap_09.mp3"
   ],
   "drums_hh": [
     "drums/hh/hihat_03.mp3",
@@ -69,7 +69,7 @@
     "drums/hh/hihat_01.mp3",
     "drums/hh/hihat_14.mp3",
     "drums/hh/hihat_09.mp3",
-    "drums/hh/hihat_07.mp3",
+    "drums/hh/hihat_07.mp3"
   ],
   "drums_bd": [
     "drums/bd/kick_10.mp3",
@@ -121,7 +121,7 @@
     "drums/bd/kick_28.mp3",
     "drums/bd/kick_11.mp3",
     "drums/bd/kick_20.mp3",
-    "drums/bd/kick_39.mp3",
+    "drums/bd/kick_39.mp3"
   ],
   "drums_perc": [
     "drums/perc/perc_05.mp3",
@@ -143,7 +143,7 @@
     "drums/perc/perc_02.mp3",
     "drums/perc/perc_19.mp3",
     "drums/perc/perc_06.mp3",
-    "drums/perc/perc_20.mp3",
+    "drums/perc/perc_20.mp3"
   ],
   "drums_rd": [
     "drums/rd/ride_09.mp3",
@@ -160,7 +160,7 @@
     "drums/rd/ride_07.mp3",
     "drums/rd/ride_02.mp3",
     "drums/rd/ride_05.mp3",
-    "drums/rd/ride_11.mp3",
+    "drums/rd/ride_11.mp3"
   ],
   "drums_sd": [
     "drums/sd/snare_21.mp3",
@@ -187,6 +187,6 @@
     "drums/sd/snare_13.mp3",
     "drums/sd/snare_23.mp3",
     "drums/sd/snare_20.mp3",
-    "drums/sd/snare_16.mp3",
+    "drums/sd/snare_16.mp3"
   ]
 }
